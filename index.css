@@ -1,0 +1,86 @@
+body{
+
+
+	
+h4{
+color:yellow;    
+  font-size:25px;  
+   font-style:algerian; 
+    
+    
+}	
+	
+	
+	
+	
+	
+		background-color:lightblue ;		
+				
+				
+}
+img{
+		border-style:double;	
+			border-color:yellow;	
+			border-width:6px;	
+background:#5553;
+margin:4px;
+border-radius:10px;
+
+}
+table{
+		border-style:double;		
+	border-radius:15px;			
+border-color:gray;				
+border-width:3px;
+background:#5553;
+
+}
+
+
+
+
+td{
+border-color:gray;
+				border-radius:10px;
+				background:brown;
+border-style:double;
+border-width:3px;
+color:yellow;
+}
+p{
+	border-style:double;			
+	border-radius:20px;			
+		border-width:5px;		
+		border-color:gray ;		
+background:maroon;
+width:887;
+border-color:red ;
+border-radius:20px 30px 100px;
+color:yellow;
+
+
+
+}
+p2{
+	border-style:double;
+width:2000px;	
+height:100px;		
+	border-color:yellow;			
+}
+
+a:link{
+color :black;
+				
+}
+a:visited{
+color:#555;
+
+}
+a:hover{
+				color:brown;
+				
+}
+a:active{
+				color:lightblue;
+				
+				{
