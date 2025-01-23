@@ -1,0 +1,210 @@
+body{
+  background-size:cover;  
+ background-color:#da377e;
+ background-position:center
+   margin:1000px; 
+}
+
+
+
+a:link{
+    
+    color:maroon;
+}
+a:visited{
+ 
+ color:brown;   
+}  
+a:hover{
+    color:lightgreen  :  
+    
+
+     
+ } 
+a:active{
+    
+    color:lightgreen;
+}
+
+
+
+ 
+#h11{
+    
+height:50px;    
+padding:20px;    
+width:950;    
+top-margin:0x;
+color:white;
+background:#555;
+border-color:gray;
+border-width:5px;
+font-family:cursive;
+border-radius:10px;
+font-size:20px;
+
+
+}
+
+#img1{
+  width:1002px;  
+  height:800px;  
+   border-style:#99c753;
+   border-color:#d03489; 
+border-radius:20px;
+   border-width:10px;
+
+
+}
+
+#table1{
+width: 1000;
+background:#ffa96a;
+color:white;
+height:100;
+border-color:#d03489;
+border-width:;
+font-size:15px;
+border-style:solid;
+border-radius:10px;
+
+
+
+}
+#table2{
+width: 1003;
+background:#5578;
+border-style:double;
+border-color:#917361;
+border-radius:10px;
+border-width:5px;
+}
+
+
+h1{
+  border-style:solid;  
+   width:990; 
+height:100;
+background:#5527;
+color:white;
+margin-left:px;
+margin-right:x;
+border-style:double;
+border-color:gray;
+background:5527;
+
+}
+#center1{
+background:#ffa96a;    
+  border-radius:px;  
+width:1000px;
+margin-right:;
+font-family:serif;
+font-size:40px;
+}
+
+
+#center2{
+  border-radius:px;
+    background:#b0588a;
+margin-left:px;
+    width:990;
+  font-family:serif; 
+  color:white;  
+       border-style:doubl;
+ border- color:white;
+   
+    }
+#center{
+   background:#5543; 
+    color:#555;
+  width:10;  
+}
+
+
+#center3{
+    border-style:;
+background:#b0588a;
+ font-family:serif;
+height:300px;
+
+}
+
+   
+
+#img2{
+ width:318;   
+border-style:double;
+border-color:maroon;
+
+border-radius:20px;
+border-radius:5
+
+}
+
+
+#p1{
+  border-style:double;  
+background:#5529;
+   text-align:justify ;
+color:white;
+padding:10px;
+border-width:5px;
+border-radius:20px;
+font-family:serif;
+font-size:20px;
+
+}
+#h16{
+ height:100;   
+border-radius:10px;
+ background:brown;   
+  
+ float:center; 
+  
+ text-transform:uppercase;   
+margin-left:px;
+text-align:center;
+color:white;
+width:960;
+padding:20px;
+height:250px;
+margin-left:px;
+font-size:20px;
+
+
+
+}
+pre{
+  color:white;  
+
+}
+#h11{
+height:20px;    
+  border-radius:20px;  
+border-style:double;
+background:#ffa96a;
+text-align:center;
+border-color:#d03489;
+font-family:serif;
+
+
+}
+
+#h110{
+text-align:center;
+background:brown;
+margin:px;
+margin-right:30px;
+width:1005px;
+	box-sizing:border-box;
+border-radius:10px;
+
+height:35px;
+
+}
+
+font{
+ font-size:20px;   
+    
+}
